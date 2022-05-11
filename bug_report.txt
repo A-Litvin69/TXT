@@ -1,0 +1,6 @@
+Bug report:
+  1. ID : 1;
+  2. Summary : The 'basket' label is not displayed in the personal account;
+  3. Steps to reproduce : 1. Choose a product, 2. Go to your personal account, 3. Click on the 'basket' icon;
+  4. Severity : Сritical;
+  5. Actual result : The cart icon should work.
