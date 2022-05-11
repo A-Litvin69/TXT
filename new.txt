@@ -1,0 +1,5 @@
+1. Full name : Litvinenko Alexander;
+2. Age : 25;
+3. Number of pets : 1;
+4. Future disired salary : 1500;
+
